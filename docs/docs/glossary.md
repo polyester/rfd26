@@ -7,8 +7,6 @@ myst:
     "keywords": "Plone, documentation, glossary, term, definition"
 ---
 
-This glossary provides example terms and definitions relevant to **rfd26**.
-website for rozefilmdagen
 
 ```{note}
 This is an example glossary demonstrating MyST Markdown’s `{glossary}` directive. You can adapt it for your project’s appendix by editing or replacing these entries with your own terms and definitions.
@@ -54,7 +52,5 @@ Sphinx
     It can generate multiple output formats, including HTML and PDF, from a single source.
     This scaffold uses Sphinx to generate documentation in HTML format.
 
-rozefilmdagen
-    a film festival.
 
 ```

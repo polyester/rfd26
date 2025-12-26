@@ -9,8 +9,7 @@ myst:
 
 # rfd26
 
-Welcome to the documentation for rfd26!
-website for rozefilmdagen
+
 
 This scaffold provides a ready-to-use environment for creating comprehensive documentation for {term}`Plone` projects, based on {term}`Plone Sphinx Theme`.
 
