@@ -54,4 +54,7 @@ Sphinx
     It can generate multiple output formats, including HTML and PDF, from a single source.
     This scaffold uses Sphinx to generate documentation in HTML format.
 
+rozefilmdagen
+    a film festival.
+
 ```
